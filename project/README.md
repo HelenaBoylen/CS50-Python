@@ -3,13 +3,13 @@
 #### Video Demo:  <URL HERE>
 
 #### Description:
-    This programme produces realtime data about the International Space Station (ISS) including:
-    1. Current Crew on board
-    2. Current location
-    3. Link to current position on Googlemaps
-    4. Some brief history about the station
-    5. A calculation of how many days the station has been occupied
-    6. Some ASCii art
+This programme produces realtime data about the International Space Station (ISS) including:
+1. Current Crew on board
+2. Current location
+3. Link to current position on Googlemaps
+4. Some brief history about the station
+5. A calculation of how many days the station has been occupied
+6. Some ASCii art
 
 ## Functions Used:
 
